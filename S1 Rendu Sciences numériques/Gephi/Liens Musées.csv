@@ -1,0 +1,76 @@
+source,target,type,label,weight,description
+cmna,noda,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Notre Dame de Paris
+cmna,sach,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Sainte Chapelle
+cmna,conc,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Conciergerie
+cmna,hosu,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Hôtel de Sully
+cmna,dnpr,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Domaine national du Palais-Royal
+cmna,hdlm,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Hôtel de la Marine
+cmna,adtr,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Arc de Triomphe
+cmna,chex,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Chapelle expiatoire
+cmna,cdvi,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Château de Vincennes
+cmna,pant,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Panthéon
+cmna,coju,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Colonne de Juillet
+cmna,bcsd,direct,Fait partie des monuments gérés par le Centre des Monuments Nationaux,1,Centre des Monuments Nationaux - Basilique cathédrale Saint Denis
+amis,cmna,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Centre des Monuments Nationaux
+amis,louv,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Musée du Louvre
+amis,loul,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Louvre-Lens
+amis,cenp,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Centre Pompidou
+amis,loab,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Louvre Abu-Dhabi
+amis,orsa,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Musée d'Orsay
+amis,oran,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Musée de l'Orangerie
+amis,pamu,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Paris Musées
+amis,fait,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Fondo Ambiente Italiano
+amis,paum,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Jeu de Paume
+amis,bran,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Musée du Quai Branly
+amis,grpa,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Grand Palais
+amis,fefo,direct,Fait partie des paternaires des Amis du Musée du Louvre,1,Amis Musée du Louvre - Festival de l'Histoire de l'Art de Fontainebleau
+rmna,magn,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national Magnin
+rmna,bona,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Maison Bonaparte
+rmna,ecou,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national de la Renaissance au château d'Écouen
+rmna,clun,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée de Cluny
+rmna,plan,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée des Plans-Reliefs
+rmna,preh,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national de Préhistoire
+rmna,mnia,direct,Fait partie de la réunion des Musées nationaux français,1,"Réunion des Musées Nationaux - Musée napoléonien et africain de l'île d'Aix, Donation Gourgaud"
+rmna,mncp,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national et domaine du château de Pau
+rmna,luxe,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée de Luxembourg
+rmna,malm,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national des château de Malmaison et Bois-Préau
+rmna,arch,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée d'archéologie nationale et domaine national
+rmna,grpa,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Grand Palais
+rmna,port,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national de Port-Royal des Champs
+rmna,mncl,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national Clémenceau - de Lattre
+rmna,mnfg,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national Fernand Léger
+rmna,mnmc,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national Marc Chagall
+rmna,mnpp,direct,Fait partie de la réunion des Musées nationaux français,1,Réunion des Musées Nationaux - Musée national Pablo Picasso
+pamu,mamp,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée d'Art moderne de la ville de Paris
+pamu,mdba,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Maison de Balzac
+pamu,mbou,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée Bourdelle
+pamu,mcar,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée Carnavalet
+pamu,cata,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Catacombles
+pamu,crar,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Crypte archéologique de l'île de la Cité
+pamu,mcer,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée Cernuschi
+pamu,mcog,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée Cognacq-Jay
+pamu,mlhl,direct,Fait partie des Musées de la ville de Paris,1,"Paris Musées - Musée du général Leclerc de Hauteclocque et de la Libération de Paris, Musée Jean Moulin"
+pamu,pgal,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Palais Galliera
+pamu,ppal,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Petit Palais
+pamu,mvro,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée de la Vie romantique
+pamu,mvhu,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Maison de Victor Hugo
+pamu,mzad,direct,Fait partie des Musées de la ville de Paris,1,Paris Musées - Musée Zadkine
+louv,capo,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Musée Capodimonte
+louv,kyoc,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Khorsabad
+louv,moss,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Musée de Mossoul
+louv,Loab,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Louvre Abu-Dhabi
+louv,loul,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Louvre -Lens
+louv,clar,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Clark Art Institute
+louv,gait,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Galleria d'Italia
+louv,beyr,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Musée national de Beyrouth
+louv,capi,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Musée du Capitole
+louv,nara,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Náradni galerie
+louv,toky,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - National Art Center Tokyo
+louv,alip,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fondation Aliph
+louv,payk,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouille archéologique de Paykend 
+louv,apol,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques d'Apollonia du Pont
+louv,baou,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Baouît
+louv,bybl,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Byblos
+louv,cerv,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Cerveteri
+louv,gabi,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Gabies
+louv,khor,direct,Le Louvre réalise des partenariats avec cette institution,1,Musée du Louvre - Fouilles archéologiques de Khorsabad
