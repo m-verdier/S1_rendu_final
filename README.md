@@ -7,3 +7,4 @@
 
 
 [Graphique montrant la part de billets payant et gratuits des visiteurs du Louvre](http://m-verdier.github.io/S1_rendu_final/payant_gratuit.html)
+![Fréquentation Musée du Louvre](https://github.com/user-attachments/assets/c35c5d1a-b5d6-44d8-b8e1-529a45ebf707)
